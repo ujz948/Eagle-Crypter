@@ -7,4 +7,4 @@ Eagle Crypter | Advanced Android Malware Obfuscator
 - Accessibility Dropper
 - Changer/Renamer
 
-[More INFO](https://ledear-dev.com/Eagle-Crypter/index.html)
+## [More INFO](https://ledear-dev.com/Eagle-Crypter/index.html)
