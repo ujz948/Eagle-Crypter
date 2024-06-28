@@ -11,3 +11,5 @@ Eagle Crypter | Advanced Android Malware Obfuscator
 - Changer/Renamer
 
 ## [More INFO](https://ledear-dev.com/Eagle-Crypter/index.html)
+
+[![My Channel](https://img.shields.io/badge/BUY-NOW-blue?style=for-the-badge&logo=telegram)](https://telegram.me/Ledear_devz)
